@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UpdownMonitoring.props" />
+</Project>
